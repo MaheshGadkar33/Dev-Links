@@ -6,6 +6,7 @@ import MobileView from "./MobileView";
 const Links = () => {
   return (
     <div className={Styles.Links_container}>
+      <p>Loading---</p>
       <MobileView />
       <div className={Styles.LinksInner_container}>
         <h2>Customize your links</h2>
