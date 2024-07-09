@@ -4,7 +4,7 @@ import Styles from "./LinksPreviewCard.module.css";
 import { Field, Form, Formik } from "formik";
 import Select from "react-select";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa"; // Import icons
-import Button from "./Button";
+import Button from "./Button/Button";
 const LinksPreviewCard = () => {
   const options = [
     { value: "linkedin", label: "LinkedIn", icon: <FaLinkedin /> },

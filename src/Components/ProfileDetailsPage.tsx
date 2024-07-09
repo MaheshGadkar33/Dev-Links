@@ -1,7 +1,7 @@
-import Button from "./Button";
+import Button from "./Button/Button";
 import Styles from "./Links.module.css";
 import LinksPreviewCard from "./LinksPreviewCard";
-import MobileView from "./MobileView";
+import MobileView from "./MobileView/MobileView";
 
 const ProfileDetailsPage = () => {
   return (

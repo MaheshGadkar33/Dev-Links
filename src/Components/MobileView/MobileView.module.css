@@ -1,0 +1,21 @@
+.Mobile_container {
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+  width: 38vw;
+  margin: 0px 0px 0px 23px;
+}
+
+.mobile_img {
+  mix-blend-mode: hard-light;
+  width: 90%;
+}
+
+.LinksDiv {
+  position: relative;
+  right: 50%;
+}
